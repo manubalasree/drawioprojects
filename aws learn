@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T13:41:52.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.40 Safari/537.36 Edg/92.0.902.9" version="14.7.7" etag="NGn8fUD0rLWs5zysqWnU" type="github"><diagram id="qcxGiFEOR0bRDSDsK-QJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-13T14:01:41.532Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.40 Safari/537.36 Edg/92.0.902.9" etag="AfuqSI3SoAcAriaU_3az" version="14.7.7" type="github">
+  <diagram id="qcxGiFEOR0bRDSDsK-QJ" name="Page-1">
+    <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qJ5qivanTK2c38vT09Q3-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="85.4" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-2" value="Amazon Route 53" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-4" value="Amazon Cloudfront" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-5" value="Amazon S3" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="322.2" as="sourcePoint" />
+            <mxPoint x="260" y="322.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="322.20000000000005" as="sourcePoint" />
+            <mxPoint x="510" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ5qivanTK2c38vT09Q3-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.5" y="289.05" as="sourcePoint" />
+            <mxPoint x="560" y="356.35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
